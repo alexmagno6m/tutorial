@@ -4,5 +4,5 @@ import { metadata } from "../layout"
 //metadata.description = "My personal projects"
 
 export default function Projects(){
-    return <h1> My Projectss </h1>
+    return <h1> My Projects </h1>
 }
